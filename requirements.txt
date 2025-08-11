@@ -1,0 +1,7 @@
+# dbt core + adapter 
+dbt-core~=1.7
+dbt-bigquery~=1.7
+
+# linting/quality
+sqlfluff>=2.3.0
+sqlfluff-templater-dbt>=2.3.0
